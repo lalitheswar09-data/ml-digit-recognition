@@ -5,14 +5,6 @@
 
 ---
 
-## 📊 Live Dashboard
-
-**[→ View Interactive Model Comparison Dashboard](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/visualizer.html)**
-
-> Replace the link above after enabling GitHub Pages (Settings → Pages → Deploy from `main` branch).
-
----
-
 ## 🏆 Results Summary
 
 | Model | Accuracy | F1 Score (macro) | Train Time |
@@ -83,11 +75,3 @@ hence its dominance on image data.
 **Lalith** · [GitHub](https://github.com/lalitheswar09-data)
 
 ---
-
-## ⚙️ Enable GitHub Pages (to activate the dashboard link)
-
-1. Go to your repo → **Settings** → **Pages**
-2. Under *Source*, select **Deploy from a branch**
-3. Choose `main` branch, `/ (root)` folder → **Save**
-4. Your dashboard will be live at:  
-   `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/visualizer.html`
